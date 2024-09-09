@@ -3,3 +3,4 @@ This is a readme file.
 Your code should always have a readme file of some kind.
 
 this is an edit
+creating a conflict
