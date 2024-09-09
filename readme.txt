@@ -1,3 +1,1 @@
-this is new text
-
-now
+Resetting readme.
